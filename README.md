@@ -6,4 +6,3 @@ Repositório de projetos e exercícios do curso de Desenvolvimento de Software f
 - Loops
 - Objetos
 - Funções
-- Desafio de módulo
